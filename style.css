@@ -17,8 +17,7 @@ body {
 
 .title-img {
   /* border: 3px solid #35d853; */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("/image/dp.jpg");
+  background-image: url("/image/dp.jpg");
   background-position: center;
   margin-bottom: 50px;
   margin-top: 50px;
